@@ -44,14 +44,33 @@ body {
   font-weight: lighter;
 }
 
+/* Card stats */
+
 .card-stats {
   display: flex;
-  align-items: flex-start ;
+  align-items: flex-start;
   gap: 3em;
+  padding-top: 20px;
 }
 
-.card-stats p {
+.card-stats-items {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.card-stats-num {
+  font-size: 25px;
+  font-weight: 700;
+  padding-bottom: 8px;
+}
+
+.card-stats-heading {
   text-transform: uppercase;
+  color: hsla(0, 0%, 100%, 0.6);
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 0.1em;
 }
 
 
