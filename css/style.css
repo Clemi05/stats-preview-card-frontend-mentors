@@ -19,13 +19,22 @@ body {
   flex-direction: column;
 }
 
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /* Card */
 .card {
   width: 900px;
-  flex-direction: column;
+  flex-direction: row;
   background-color:hsl(244, 38%, 16%);
   border-radius: 10px;
-  padding: 25px;
+}
+
+.card-details {
+  padding: 40px;
 }
 
 .card-title {
@@ -75,7 +84,9 @@ body {
 
 
 /* Image */
-
+img {
+  border-radius: 0px 10px 10px 0px;
+}
 
 /* Attributions */
 .attribution {
