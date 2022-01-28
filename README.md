@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot-stats-preview-card-component_desktop.png)
+![Desktop Screenshot](./images/screenshot-stats-preview-card-component_desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Clemi05/stats-preview-card-frontend-mentors)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click here to see my code](https://github.com/Clemi05/stats-preview-card-frontend-mentors)
+- Live Site URL: [Click here to see the live website](https://your-live-site-url.com)
 
 ## My process
 
@@ -43,7 +43,8 @@ Users should be able to:
 
 ### Continued development
 
-I will focus on working on the code to develop better media queries.
+I will focus on building challenges/projects and lookink up some documentations
+in order to improve my CSS skills, especially regarding media queries.
 
 
 ## Author
