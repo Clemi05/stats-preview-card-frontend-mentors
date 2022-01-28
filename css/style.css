@@ -118,7 +118,45 @@ body {
   }
 
   .card-details {
-    padding: 60px 96px 60px 60px;
+    padding: 40px 76px 40px 40px;
+  }
+}
+
+/* Small Tablet */
+@media screen and (max-width: 920px) {
+  .card {
+    width: 650px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color:hsl(244, 38%, 16%);
+    border-radius: 10px;
+  }
+
+  .card-details {
+    padding: 35px 70px 35px 35px;
+  }
+
+  .card-title {
+    font-size: 22px;
+    padding-bottom: 20px;
+  }
+
+  .card-paragraph {
+    font-size: 12px;
+    line-height: 20px;
+  }
+
+  .card-stats {
+    gap: 2em;
+    padding-top: 30px;
+  }
+
+  .card-stats-num {
+    font-size: 20px;
+  }
+
+  .card-stats-heading {
+    font-size: 10px;
   }
 
 }
@@ -130,7 +168,7 @@ body {
   }
 
   .card {
-    width: 300px;
+    width: 100%;
     display: flex;
     align-items: center;
     flex-direction: column-reverse;
