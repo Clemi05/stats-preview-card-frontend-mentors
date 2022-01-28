@@ -12,7 +12,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -24,16 +23,26 @@ Users should be able to:
 
 ### Screenshot
 
+<<<<<<< HEAD
 Desktop Screenshot
 ![](./images/screenshot-stats-preview-card-component_desktop.png)
 
 Mobile Screenshot
 ![](./images/screenshot-stats-preview-card-component_mobile.png)
+=======
+Screenshot Desktop
+
+![Desktop Screenshot](./images/screenshot-stats-preview-card-component_desktop.png)
+>>>>>>> 7d0bd8a5e35e91ef80ada2626ff4c011eccc657f
+
+Screenshot Mobile
+
+![Mobile Screenshot](./images/screenshot-stats-preview-card-component_mobile.png)
 
 ### Links
 
 - Solution URL: [Click here to see my code](https://github.com/Clemi05/stats-preview-card-frontend-mentors)
-- Live Site URL: [Click here to see the live website](https://your-live-site-url.com)
+- Live Site URL: [Click here to see the live website](https://clemi05.github.io/stats-preview-card-frontend-mentors/)
 
 ## My process
 
@@ -47,7 +56,7 @@ Mobile Screenshot
 
 ### Continued development
 
-I will focus on building challenges/projects and lookink up some documentations
+I will focus on building challenges/projects and looking up some documentations
 in order to improve my CSS skills, especially regarding media queries.
 
 
