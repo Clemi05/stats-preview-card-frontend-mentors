@@ -28,7 +28,7 @@ Desktop Screenshot
 ![](./images/screenshot-stats-preview-card-component_desktop.png)
 
 Mobile Screenshot
-![](./images/screenshot-stats-preview-card-component_desktop.png)
+![](./images/screenshot-stats-preview-card-component_mobile.png)
 
 ### Links
 
