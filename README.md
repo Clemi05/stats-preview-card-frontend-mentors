@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Click here to see my code](https://github.com/Clemi05/stats-preview-card-frontend-mentors)
-- Live Site URL: [Click here to see the live website](https://your-live-site-url.com)
+- Live Site URL: [Click here to see the live website](https://clemi05.github.io/stats-preview-card-frontend-mentors/)
 
 ## My process
 
