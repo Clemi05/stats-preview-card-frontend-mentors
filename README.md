@@ -24,7 +24,11 @@ Users should be able to:
 
 ### Screenshot
 
+Screenshot Desktop
 ![Desktop Screenshot](./images/screenshot-stats-preview-card-component_desktop.png)
+
+Screenshot mobile
+![Mobile Screenshot](./images/screenshot-stats-preview-card-component_mobile.png)
 
 ### Links
 
