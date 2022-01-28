@@ -80,16 +80,21 @@ body {
   letter-spacing: 0.1em;
 }
 
-
 /* Image */
 
-img {
-  border-radius: 0px 10px 10px 0px;
-}
-/* .card-img {
+.card-img {
   width: 100%;
-  background-image: url("./images/image-header-desktop.jpg");
-} */
+  height: 100%;
+  background-image: url(/images/image-header-desktop.jpg);
+  border-radius: 0px 10px 10px 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.overlay {
+  position: relative;
+  background-color:hsl(275, 100%, 25%);
+}
 
 /* Attributions */
 .attribution {
@@ -123,6 +128,6 @@ img {
     background-color:hsl(244, 38%, 16%);
     border-radius: 10px;
     padding-left: 50px;
-}
+  }
 
 }
