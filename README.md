@@ -49,7 +49,7 @@ Screenshot Mobile
 
 ### Continued development
 
-I will focus on building challenges/projects and lookink up some documentations
+I will focus on building challenges/projects and looking up some documentations
 in order to improve my CSS skills, especially regarding media queries.
 
 
