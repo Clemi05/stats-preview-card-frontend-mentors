@@ -31,7 +31,7 @@ body {
   padding: 60px 96px 60px 60px;
 }
 
-.card-title {
+.card-title h1 {
   font-size: 32px;
   font-weight: 700;
   padding-bottom: 35px;
