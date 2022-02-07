@@ -23,17 +23,9 @@ Users should be able to:
 
 ### Screenshot
 
-<<<<<<< HEAD
-Desktop Screenshot
-![](./images/screenshot-stats-preview-card-component_desktop.png)
-
-Mobile Screenshot
-![](./images/screenshot-stats-preview-card-component_mobile.png)
-=======
 Screenshot Desktop
 
 ![Desktop Screenshot](./images/screenshot-stats-preview-card-component_desktop.png)
->>>>>>> 7d0bd8a5e35e91ef80ada2626ff4c011eccc657f
 
 Screenshot Mobile
 
@@ -41,8 +33,9 @@ Screenshot Mobile
 
 ### Links
 
-- Solution URL: [Click here to see my code](https://github.com/Clemi05/stats-preview-card-frontend-mentors)
+- Solution URL: [Click here to see the solution](https://www.frontendmentor.io/solutions/stats-card-using-flexbox-and-grid-responsive-4skJKuK2r)
 - Live Site URL: [Click here to see the live website](https://clemi05.github.io/stats-preview-card-frontend-mentors/)
+- Repository URL: [Click here to see the repository](https://clemi05.github.io/stats-preview-card-frontend-mentors/)
 
 ## My process
 
