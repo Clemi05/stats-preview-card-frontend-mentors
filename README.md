@@ -33,8 +33,9 @@ Screenshot Mobile
 
 ### Links
 
-- Solution URL: [Click here to see my code](https://github.com/Clemi05/stats-preview-card-frontend-mentors)
+- Solution URL: [Click here to see the solution](https://www.frontendmentor.io/solutions/stats-card-using-flexbox-and-grid-responsive-4skJKuK2r)
 - Live Site URL: [Click here to see the live website](https://clemi05.github.io/stats-preview-card-frontend-mentors/)
+- Repository URL: [Click here to see the repository](https://clemi05.github.io/stats-preview-card-frontend-mentors/)
 
 ## My process
 
